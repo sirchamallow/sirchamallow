@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Pierre LEMASSON.
 
 - 🔭 I’m currently working on learning dev
-- 🌱 I’m currently learning stack Ruby on Rails
 - 📫 How to reach me: sir@chamallow.com
 - 📫 How to DM me on twitter : @sirchamallow
 - 📄 Check my Linkedin profile for more info : https://www.linkedin.com/in/pierrelemasson/
