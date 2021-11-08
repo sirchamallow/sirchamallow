@@ -21,7 +21,6 @@ Si mon travail de curattion sur Twitter ou de ma newsletter vous plaît, vous po
 
 
 Formation / Diplômes
-- 🎓 2022 WIP
 - 🎓 2001-2005 - BAC PRO Électrotechnique au CFAI Lyon de l'Institut des ressources industrielles
 - 🎓 2001/2003 - CAP/BEP Électrotechnique au CFAI Lyon de l'Institut des ressources industrielles
 
@@ -46,9 +45,7 @@ Distinctions
 - 📄 2010 - Citation dans Micro Portable Magazine: "Facebook, Twitter, LinkedIn : Guide des réseaux sociaux 2010-2011″ 
 
 
-📢 Retrouvez-vous IRL
-
-J'habite à Lyon, France ❤️
+📢 Retrouvez-vous IRL à Lyon, France
 
 <!--
 **sirchamallow/sirchamallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
