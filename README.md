@@ -1,15 +1,14 @@
 ### Bonjour 👋, je suis Pierre LEMASSON
 
 - 🔭 Je suis en phase de transition pour apprendre le métier de développeur
-- 📫 Pour me contacter par email : [*sir@chamallow.com*](mailto:sir@chamallow.com)
-- 📫 Pour me contacter par twitter : @[*sirchamallow*](https://twitter.com/sirchamallow)
+- 📫 Vous souhaitez me contacter ? Par email : [*sir@chamallow.com*](mailto:sir@chamallow.com) ou par twitter : @[*sirchamallow*](https://twitter.com/sirchamallow) 
 - 📄 Pour plus d'informations, visiter mon profil *[Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
-- 📢 Retrouvez-moi IRL à Lyon, France
+- 📢 Retrouvez moi AFK sur Lyon (🇫🇷 🇪🇺)
 
 **✨ Vous appréciez mon travail ? Faites moi un don :)**
-Si mon travail de curation sur Twitter ou celui de ma newsletter vous plaît, vous pouvez toujours me faire un don ;)
+Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous plaît, vous pouvez toujours me faire un don ;)
 
-<noscript><a href="https://liberapay.com/sirchamallow/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR"><img alt="Faites un don avec PayPal" src="https://pics.paypal.com/00/s/MjFlYjkwZDgtZDViYy00YzUzLTk4ZmMtZDY5ZjI0MTMwODg0/file.PNG"></a></noscript>
 
 **⚡ Technologies**
 
@@ -27,11 +26,12 @@ Si mon travail de curation sur Twitter ou celui de ma newsletter vous plaît, vo
 **🤔 Autres expériences**
 
  - 2001 (3 semaines) : Planet’Info - Montage & dépannage d’ordinateurs; conseil clientèle
- - 2000 (3 semaines) : TCL - Maintenance matériel ferroviaire (unité de maintenance métro C)
+ - 2000 (3 semaines) : [TCL](https://www.tcl.fr/) - Maintenance matériel ferroviaire (unité de maintenance métro Ligne C)
 
 **🎓 Formation / Diplômes**
 - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
+
 
 **Informations complémentaires**
 
@@ -39,6 +39,7 @@ Si mon travail de curation sur Twitter ou celui de ma newsletter vous plaît, vo
 - 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
 - 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
 - 🚗 Co-Rédacteur du compte twitter *[StartupAuto.club](https://twitter.com/startupautoclub)* , qui publie une veille professionnel sur l’automobile & la mobilité
+
 
 **📄 Distinctions**
 
@@ -51,7 +52,6 @@ Si mon travail de curation sur Twitter ou celui de ma newsletter vous plaît, vo
 - 2011 - Témoignage dans le livre blanc: "*[Regards croisés sur la veille](https://www.enssib.fr/bibliotheque-numerique/notices/49487-regards-croises-sur-la-veille)*" (partage d’expériences sur la veille et la recherche d’informations)
 - 2010 - Citation dans le magazine *Micro Portable*: "Facebook, Twitter, LinkedIn : Guide des réseaux sociaux 2010-2011″ 
 
-> Written with [StackEdit](https://stackedit.io) /-)
-
+> Written with [StackEdit](https://stackedit.io). /-)
 <!--
 **sirchamallow/sirchamallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
