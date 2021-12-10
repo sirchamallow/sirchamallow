@@ -43,7 +43,7 @@ Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous p
 
 **📄 Distinctions**
 
-- 2021 - Echange audio professionnel dans le podcast "*Artisan Développeur*" sur [la responsabilité des développeurs](https://podcast.ausha.co/artisan-developpeur/la-responsabilite-des-developpeurs-avec-pierre-lemasson)
+- 2021 - Echange audio professionnel dans le podcast "*Artisan Développeur*" sur [la responsabilité des développeurs](https://podcast.ausha.co/artisan-developpeur/la-responsabilite-des-developpeurs-avec-pierre-lemasson) et [les opportunités offertes par l'IoT](https://podcast.ausha.co/artisan-developpeur/les-opportunites-offertes-par-l-iot-avec-pierre-lemasson)
 - 2021 - Publication d’un case study : "[How Copark enabled remote parking access](https://www.sierrawireless.com/resources/case-study/octave-enables-remote-parking-access/)" par "*[Sierra Wireless](https://www.sierrawireless.com)*", fabricant de solutions IoT, sur l’usage de *Copark* avec la plateforme *[Octave](https://www.sierrawireless.com/octave/)* et l’utilisation du FX30 dans le monde du parking.
 - 2016 - Citation dans l’hebdomadaire *[Tribune de Lyon](https://tribunedelyon.fr/)* à l'occasion des 10 ans de réseau social Twitter
 - 2015 - Portrait de mon parcours professionnel dans le magazine "[InterMédia](https://web.archive.org/web/20191130000342/http://www.intermedia.fr/)"
