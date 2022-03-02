@@ -1,7 +1,7 @@
 ### Bonjour 👋, je suis Pierre LEMASSON
 
 - 🔭 Je suis en phase de transition pour apprendre le métier de développeur
-- 📫 Vous souhaitez me contacter ? Par email : [*sir@chamallow.com*](mailto:sir@chamallow.com) ou par twitter : @[*sirchamallow*](https://twitter.com/sirchamallow) 
+- 📫 Vous souhaitez me contacter ? Par email : [*sir.chamallow@protonmail.com*](mailto:sir.chamallow@protonmail.com) ou par twitter : @[*sirchamallow*](https://twitter.com/sirchamallow) 
 - 📄 Pour plus d'informations, visiter mon profil *[Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
 - 📢 Retrouvez moi AFK sur Lyon (🇫🇷 🇪🇺)
 
