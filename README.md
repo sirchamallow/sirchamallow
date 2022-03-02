@@ -5,8 +5,7 @@
 - 📄 Pour plus d'informations, visiter mon profil *[Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
 - 📢 Retrouvez moi AFK sur Lyon (🇫🇷 🇪🇺)
 
-**✨ Vous appréciez mon travail ? Faites moi un don :)**
-Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous plaît, vous pouvez toujours me faire un don ;) <noscript><a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR"><img alt="Faites un don avec PayPal" src="https://pics.paypal.com/00/s/MjFlYjkwZDgtZDViYy00YzUzLTk4ZmMtZDY5ZjI0MTMwODg0/file.PNG"></a></noscript>
+**✨ Vous appréciez mon travail ? Faites moi un *[don sur PayPal](https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR) :)**
 
 **⚡ Technologies**
 
@@ -51,5 +50,5 @@ Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous p
 - 2010 - Citation dans le magazine *Micro Portable*: "Facebook, Twitter, LinkedIn : Guide des réseaux sociaux 2010-2011″ 
 
 > Written with [StackEdit](https://stackedit.io). /-)
-<!--
-**sirchamallow/sirchamallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **sirchamallow/sirchamallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
