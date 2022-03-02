@@ -12,7 +12,9 @@ Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous p
 
 **⚡ Technologies**
 
-![image](https://user-images.githubusercontent.com/16926444/140777544-75a7b4a2-1627-41ed-9df1-df447eff4854.png) / ![image](https://user-images.githubusercontent.com/16926444/140777574-2e28fadc-3a50-4203-b867-c9aa2a4d7e03.png)
+<a href="https://www.git.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/140777544-75a7b4a2-1627-41ed-9df1-df447eff4854.png" alt="git" width="90" height="40"/></a> <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/140777574-2e28fadc-3a50-4203-b867-c9aa2a4d7e03.png" alt="github" width="130" height="40"/></a>
+
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 
 **💼 Expériences professionnelles**
 
@@ -32,14 +34,12 @@ Si mon travail de veille, curation sur Twitter, ou celui de ma newsletter vous p
 - 2001-2005 - BAC PRO Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 - 2001/2003 - CAP/BEP Électrotechnique à l'[Institut des Ressources Industrielles - CFAI Lyon](https://www.iri-lyon.com/institut-des-ressources-industrielles) (UIMM)
 
-
 **Informations complémentaires**
 
 - 🎸**Loisirs** : jouer de la guitare électrique (une *Fender Telecaster Deluxe japonaise*), faire de la trottinette électrique 🛴
 - 🧐 Membre de l’association *[OpenFacto](https://openfacto.fr/)*, qui œuvre pour la promotion de la scène OSINT francophone.
 - 🎙️ Co-Créateur du podcast *[Un bar et j’y vais](https://unbaretjyvais.eu/)*, qui fait découvrir chaque mois un bar 🍻🍷 de la ville de Lyon
 - 🚗 Co-Rédacteur du compte twitter *[StartupAuto.club](https://twitter.com/startupautoclub)* , qui publie une veille professionnel sur l’automobile & la mobilité
-
 
 **📄 Distinctions**
 
