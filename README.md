@@ -6,7 +6,7 @@
 - 📢 Retrouvez moi AFK sur Lyon (🇫🇷 🇪🇺)
 
 **✨ Vous appréciez mon travail ? Faites moi un *[don sur PayPal](https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR) :)**
-<a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="html5" width="80" height="40"/></a><a href="" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="html5" width="100" height="30"/></a><a href="" target="_blank" rel="noreferrer">
 
 **⚡ Technologies**
 
