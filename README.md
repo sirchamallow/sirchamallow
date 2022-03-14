@@ -4,8 +4,8 @@
 - 📫 Vous souhaitez me contacter ? Par email : [*sir.chamallow@protonmail.com*](mailto:sir.chamallow@protonmail.com) ou par twitter : @[*sirchamallow*](https://twitter.com/sirchamallow) 
 - 📄 Pour plus d'informations, visiter mon profil *[Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
 - 📢 Retrouvez moi AFK sur Lyon (🇫🇷 🇪🇺)
-
-**✨ Vous appréciez mon travail ? Faites-moi un sur <a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="git" width="100" height="30"/></a> 
+</br>
+✨ Vous appréciez mon travail ? Faites-moi un sur <a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="git" width="100" height="30"/></a> 
 
 **⚡ Technologies**
 
