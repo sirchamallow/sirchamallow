@@ -5,8 +5,8 @@
 - 📄 Pour plus d'informations, visiter mon profil *[Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
 - 📢 Retrouvez-moi AFK sur Lyon (🇫🇷 🇪🇺)
 
-✨ Vous appréciez mon travail de veille ou de curation de contenu ?
---> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?logo=twitter&style=for-the-badge" alt="sirchamallow" /></a> <-- 
+✨ Vous appréciez mon travail de veille ou de curation de contenu ?</p>
+--> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?logo=twitter&style=for-the-badge" alt="sirchamallow" /></a> <--</p> 
 Faites-moi un don sur <a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="git" width="100" height="30"/></a> 
 </br>
 
