@@ -6,7 +6,7 @@ Je suis un développeur web passionné de veille, de technologie et du cyber.
 
 Après plusieurs expériences dans le domaine de **l'électricité** &  **l'IoT** où j'ai pu développer ma vision produit/métier/terrain et mes compétences techniques, je me suis inscrit au bootcamp du Wagon et je me suis découvert une passion pour le code 
 
-Je suis également "webmaster" depuis les années 90. Je blogue parfois sur la technologie du point de vue pragmatique. Ravi de vous rencontrer!
+Je suis également "webmaster" depuis les années 90. Je blogue parfois sur la technologie d'un point de vue pragmatique. Ravi de vous rencontrer!
 
 **👉 En résumé**
 
