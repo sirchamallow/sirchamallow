@@ -38,7 +38,7 @@ Product mindset, UX/UI basics, communication & pitch skills, collaboration workf
 
 **📨 Newsletter** : Abonnez-vous à mes  [carnets de veille](https://sirchamallow.substack.com/) !
 
-**✨ Vous appréciez mon travail de veille ?**
+**✨ Vous appréciez mon travail de veille ?**</p>
 👇 Faites-moi un don</br>
 <a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="git" width="100" height="27"/></a> 
 </br>
