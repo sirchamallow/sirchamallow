@@ -13,7 +13,9 @@ Je suis également "webmaster" depuis les années 90. Je blogue parfois sur la t
 
 - 🔭 Je suis un développeur web junior
 - 📫 Vous souhaitez me contacter ? Mon email : [*sir.chamallow@protonmail.com*](mailto:sir.chamallow@protonmail.com)
-- 📄 Pour plus d'informations, visiter mon profil [Linkedin](https://www.linkedin.com/in/pierrelemasson/) ou [mon blog](https://sir.chamallow.com) 🔗
+- 💼 Plus d'information sur [mon parcours professionnel](https://github.com/sirchamallow/profile)
+- 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/pierrelemasson)
+- 🔗 Découvrez [mon blog](https://sir.chamallow.com)
 - 📢 Retrouvez-moi AFK sur Lyon (🇫🇷 🇪🇺)
 - ⚡ Fun fact : J’aime les sandwichs triangles
 
