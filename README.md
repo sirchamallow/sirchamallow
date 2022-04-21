@@ -2,9 +2,11 @@
 
 **👋 Présentation**
 
-Je suis un développeur web junior passionné de veille, de technologie et du cyber.
+Je suis un développeur web junior passionné de veille, de technologie et de cybersécurité.
 
-Après plusieurs expériences dans le domaine de **l'électricité** &  **l'IoT** où j'ai pu développer mon expérience produit/métier/terrain et mes compétences techniques, je me suis inscrit en début d'année au bootcamp du Wagon et je me suis découvert une passion pour le code. J'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
+Après plusieurs années d'expérience dans le domaine de **l'électricité** & **l'IoT** où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en début d'année au bootcamp du Wagon pour continuer à apprendre et je me suis découvert une passion pour le code. J'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program pendant le mois de mai.
+
+Je suis à la recherche d'un premier poste de Développeur Web (junior) - Front.
 
 Je suis également "webmaster" depuis les années 90 (de multimania, dotclear à Wordpress).
 Je blogue parfois sur la technologie d'un point de vue pragmatique.
@@ -31,17 +33,20 @@ Ravi de vous rencontrer!
 
 **💻 Soft skills**
 
-Product mindset, UX/UI basics, communication & pitch skills, collaboration workflows with git/Github.
+- IT : esprit produit, bases UX/UI, compétences en communication et en présentation, travail collaboratif avec git/Github, Veille technologique.
+- Qualités personnelles : capacité à s’organiser et à établir des priorités – autonomie – prise de décisions – sens des responsabilités.
+- Relations aux autres : capacité à travailler en équipe: coopération – traitement et transmission des informations – atteinte des objectifs – respect des engagements
+- Relation à l’environnement : Sens du résultat – Relation Client, Créativité : force de proposition et réalisation, Pensée critique : résolution de problèmes complexes, Capacité d’adaptation à des situations variées et à ajuster ses comportements
 
 **📝 Blog posts**
 
- - [Tableau national de répartition des bandes de fréquences radioélectriques](https://sir.chamallow.com/archives/2980)
- - [NTP, le serveur de temps](https://sir.chamallow.com/archives/2897)
- - [Astérix vs McDonald’s, histoire d’un buzz mondial (le mien)](https://sir.chamallow.com/archives/3107)
- - [Test | 🎒 Dakine X In Tartiflette we trust 2018](https://sir.chamallow.com/archives/1340)
- -  [Le saviez-vous ? Avec 35 pays différents, la France est le pays ayant le plus de frontières au monde](https://sir.chamallow.com/archives/2588)
+- [Tableau national de répartition des bandes de fréquences radioélectriques](https://sir.chamallow.com/archives/2980)
+- [NTP, le serveur de temps](https://sir.chamallow.com/archives/2897)
+- [Astérix vs McDonald’s, histoire d’un buzz mondial (le mien)](https://sir.chamallow.com/archives/3107)
+- [Test | 🎒 Dakine X In Tartiflette we trust 2018](https://sir.chamallow.com/archives/1340)
+- [Le saviez-vous ? Avec 35 pays différents, la France est le pays ayant le plus de frontières au monde](https://sir.chamallow.com/archives/2588)
 
-**📨 Newsletter** : Abonnez-vous à mes  [carnets de veille](https://sirchamallow.substack.com/) !
+**📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/) !
 
 **✨ Vous appréciez mon travail de veille ?**</p>
 👇 Faites-moi un don</br>
