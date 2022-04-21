@@ -2,16 +2,17 @@
 
 **👋 Présentation**
 
-Je suis un développeur web passionné de veille, de technologie et du cyber.
+Je suis un développeur web junior passionné de veille, de technologie et du cyber.
 
-Après plusieurs expériences dans le domaine de **l'électricité** &  **l'IoT** où j'ai pu développer ma vision produit/métier/terrain et mes compétences techniques, je me suis inscrit au bootcamp du Wagon et je me suis découvert une passion pour le code.
-Je me forme actuellement sur le Pyhton et JS.
+Après plusieurs expériences dans le domaine de **l'électricité** &  **l'IoT** où j'ai pu développer mon expérience produit/métier/terrain et mes compétences techniques, je me suis inscrit en début d'année au bootcamp du Wagon et je me suis découvert une passion pour le code. J'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
 
-Je suis également "webmaster" depuis les années 90. Je blogue parfois sur la technologie d'un point de vue pragmatique. Ravi de vous rencontrer!
+Je suis également "webmaster" depuis les années 90 (de multimania, dotclear à Wordpress).
+Je blogue parfois sur la technologie d'un point de vue pragmatique.
+Ravi de vous rencontrer!
 
 **👉 En résumé**
 
-- 🔭 Je suis un développeur web junior
+- 🔭 Je suis un développeur web junior (front & mobile)
 - 📫 Vous souhaitez me contacter ? Mon email : [*sir.chamallow@protonmail.com*](mailto:sir.chamallow@protonmail.com)
 - 💼 Plus d'informations sur [mon parcours professionnel](https://github.com/sirchamallow/profilecv)
 - 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/pierrelemasson)
