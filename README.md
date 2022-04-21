@@ -4,7 +4,7 @@
 
 Je suis un développeur web junior passionné de veille, de technologie et de cybersécurité.
 
-Après plusieurs années d'expérience dans le domaine de **l'électricité** & **l'IoT** (internet des objets) où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en début d'année au bootcamp du Wagon pour continuer à apprendre et je me suis découvert une passion pour le code. J'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program pendant le mois de mai.
+Après plusieurs années d'expérience dans le domaine de l'électricité & l'IoT (internet des objets) où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en début d'année au bootcamp du Wagon pour continuer à apprendre et découvrir le code. En complément, j'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
 
 Je suis à la recherche d'un premier poste de Développeur Web (junior) - Front.
 
