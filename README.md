@@ -46,6 +46,11 @@ Ravi de vous rencontrer!
 - [Test | 🎒 Dakine X In Tartiflette we trust 2018](https://sir.chamallow.com/archives/1340)
 - [Le saviez-vous ? Avec 35 pays différents, la France est le pays ayant le plus de frontières au monde](https://sir.chamallow.com/archives/2588)
 
+**🎙️ Podcasts**
+
+Les opportunités offertes par l'IoT avec Pierre LEMASSON
+<iframe frameborder="0" loading="lazy" id="ausha-ZM49" height="420" style="border: none; width:100%; height:420px" src="https://player.ausha.co/index.html?podcastId=poRYxIpxqzqB&playlist=true&color=%23000000&v=3&playerId=ausha-ZM49"></iframe><script src="https://player.ausha.co/ausha-player.js"></script>
+
 **📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/) !
 
 **✨ Vous appréciez mon travail de veille ?**</p>
