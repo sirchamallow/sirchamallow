@@ -51,7 +51,7 @@ Ravi de vous rencontrer!
  - [Les opportunités offertes par l'IoT avec Pierre LEMASSON](https://podcast.ausha.co/artisan-developpeur/les-opportunites-offertes-par-l-iot-avec-pierre-lemasson) (Artisan Développeur)
 - [La responsabilité des développeurs](https://podcast.ausha.co/artisan-developpeur/la-responsabilite-des-developpeurs-avec-pierre-lemasson) (Artisan Développeur)
 
-**📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/) !
+**📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/)!
 
 **✨ Vous appréciez mon travail de veille ?**</p>
 
