@@ -26,6 +26,7 @@ Ravi de vous rencontrer!
 
 <a href="https://www.linkedin.com/in/pierrelemasson" target="blank"><img src="https://img.shields.io/badge/-Pierre LEMASSON-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrelemasson/" alt="Pierre LEMASSON - Linkedin" /></a> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?style=social" alt="sirchamallow - Twitter" /></a> <a href="https://github.com/sirchamallow" target="blank"><img src="https://img.shields.io/github/followers/sirchamallow?label=Github&style=social" alt="sirchamallow - GitHub" /></a>
 </br>
+[Google Developers](g.dev/pierrelemasson), [Apple Developers Forums](https://developer.apple.com/forums/profile/sirchamallow), [CodeGrepper](https://www.codegrepper.com/profile/sirchamallow), [StackOverflow](https://stackoverflow.com/users/3868221/sirchamallow)
 
 **⚡ Technologies & skills**
 
