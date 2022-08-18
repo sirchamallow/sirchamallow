@@ -6,8 +6,6 @@ Je suis un développeur web & mobile iOS junior passionné de veille, de technol
 
 Après plusieurs années d'expérience dans le domaine de l'électricité & l'IoT (internet des objets) où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en début d'année au bootcamp du Wagon pour continuer à apprendre et découvrir le code. En complément, j'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
 
-Je suis à la recherche d'un premier poste de Développeur Web Front-end et/ou Dévéloppeur Mobile iOS.
-
 Je suis également "webmaster" depuis les années 90 (de multimania, à dotclear pour être actuellement sur Wordpress).
 Je blogue parfois sur la technologie d'un point de vue pragmatique.
 Ravi de vous rencontrer!
