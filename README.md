@@ -52,6 +52,8 @@ Ravi de vous rencontrer!
 
 **📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/)!
 
+**📔 Wiki** : Découvrez mon [wiki](https://sirchamallow.gitbook.io/wiki)!
+
 **✨ Vous appréciez mon travail de veille ?**</p>
 
 👇 Faites-moi un don</br>
