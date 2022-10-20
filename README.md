@@ -17,14 +17,15 @@ Ravi de vous rencontrer!
 - 💼 Plus d'informations sur [mon parcours professionnel](https://github.com/sirchamallow/profilecv)
 - 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/pierrelemasson)
 - 🔗 Découvrez [mon blog](https://sir.chamallow.com)
+- 📨 Newsletter : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/)!
+- 📔 Wiki : Découvrez mon [wiki](https://sirchamallow.gitbook.io/wiki)!
 - 📢 Retrouvez-moi AFK sur Lyon (🇫🇷 🇪🇺)
-- ⚡ Fun fact : J’aime les sandwichs triangles
 
 **🤠 Retrouvez-moi sur 👇**
 
 <a href="https://www.linkedin.com/in/pierrelemasson" target="blank"><img src="https://img.shields.io/badge/-Pierre LEMASSON-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrelemasson/" alt="Pierre LEMASSON - Linkedin" /></a> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?style=social" alt="sirchamallow - Twitter" /></a> <a href="https://github.com/sirchamallow" target="blank"><img src="https://img.shields.io/github/followers/sirchamallow?label=Github&style=social" alt="sirchamallow - GitHub" /></a>
 </br>
-[Google Developers](g.dev/pierrelemasson), [Apple Developers Forums](https://developer.apple.com/forums/profile/sirchamallow), [CodeGrepper](https://www.codegrepper.com/profile/sirchamallow), [StackOverflow](https://stackoverflow.com/users/3868221/sirchamallow)
+[Google Developers](g.dev/pierrelemasson), [Apple Developers Forums](https://developer.apple.com/forums/profile/sirchamallow), [StackOverflow](https://stackoverflow.com/users/3868221/sirchamallow)
 
 **⚡ Technologies & skills**
 
@@ -49,10 +50,6 @@ Ravi de vous rencontrer!
 
  - [Les opportunités offertes par l'IoT avec Pierre LEMASSON](https://podcast.ausha.co/artisan-developpeur/les-opportunites-offertes-par-l-iot-avec-pierre-lemasson) (Artisan Développeur)
 - [La responsabilité des développeurs](https://podcast.ausha.co/artisan-developpeur/la-responsabilite-des-developpeurs-avec-pierre-lemasson) (Artisan Développeur)
-
-**📨 Newsletter** : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/)!
-
-**📔 Wiki** : Découvrez mon [wiki](https://sirchamallow.gitbook.io/wiki)!
 
 **✨ Vous appréciez mon travail de veille ?**</p>
 
