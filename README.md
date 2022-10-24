@@ -31,21 +31,6 @@ Ravi de vous rencontrer!
 
 <a href="https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/fr/docs/Learn/CSS/First_steps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/></a> <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/140777574-2e28fadc-3a50-4203-b867-c9aa2a4d7e03.png" alt="github" width="0" height="30"/></a>
 
-**💻 Soft skills**
-
- - IT : esprit produit, bases UX/UI, compétences en communication et en présentation, travail collaboratif avec git/Github, Veille technologique.
- - Qualités personnelles : capacité à s’organiser et à établir des priorités – autonomie – prise de décisions – sens des responsabilités.
- - Relations aux autres : capacité à travailler en équipe: coopération – traitement et transmission des informations – atteinte des objectifs – respect des engagements
- - Relation à l’environnement : Sens du résultat – Relation Client, Créativité : force de proposition et réalisation, Pensée critique : résolution de problèmes complexes, Capacité d’adaptation à des situations variées et à ajuster ses comportements
-
-**📝 Blog posts**
-
- - [Tableau national de répartition des bandes de fréquences radioélectriques](https://sir.chamallow.com/archives/2980)
- - [NTP, le serveur de temps](https://sir.chamallow.com/archives/2897)
- - [Astérix vs McDonald’s, histoire d’un buzz mondial (le mien)](https://sir.chamallow.com/archives/3107)
- - [Test | 🎒 Dakine X In Tartiflette we trust 2018](https://sir.chamallow.com/archives/1340)
- - [Le saviez-vous ? Avec 35 pays différents, la France est le pays ayant le plus de frontières au monde](https://sir.chamallow.com/archives/2588)
-
 **🎙️ Podcasts**
 
  - [Les opportunités offertes par l'IoT avec Pierre LEMASSON](https://podcast.ausha.co/artisan-developpeur/les-opportunites-offertes-par-l-iot-avec-pierre-lemasson) (Artisan Développeur)
