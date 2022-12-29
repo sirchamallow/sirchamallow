@@ -36,10 +36,4 @@ Ravi de vous rencontrer!
  - [Les opportunités offertes par l'IoT avec Pierre LEMASSON](https://podcast.ausha.co/artisan-developpeur/les-opportunites-offertes-par-l-iot-avec-pierre-lemasson) (Artisan Développeur)
 - [La responsabilité des développeurs](https://podcast.ausha.co/artisan-developpeur/la-responsabilite-des-developpeurs-avec-pierre-lemasson) (Artisan Développeur)
 
-**✨ Vous appréciez mon travail de veille ?**</p>
-
-👇 Faites-moi un don</br>
-<a href="https://www.paypal.com/donate?business=ADLAZ8EHH9JT4&no_recurring=0&currency_code=EUR" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16926444/158174193-f57e1ad1-e524-4577-bd5a-958e09800376.svg" alt="git" width="100" height="27"/></a> 
-</br>
-
 <!-- **sirchamallow/sirchamallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
