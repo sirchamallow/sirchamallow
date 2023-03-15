@@ -1,10 +1,11 @@
-### Bonjour, je suis Pierre LEMASSON
+### Bonjour, je suis Pierre LEMASSON a.k.a @sirchamallow
 
 **👋 Présentation**
 
 Je suis un développeur web passionné de veille, de technologie et de cybersécurité.
 
-Après plusieurs années d'expérience dans le domaine de l'électricité & l'IoT (internet des objets) où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en 2022 au bootcamp du Wagon pour continuer à apprendre et découvrir le code. En complément, j'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
+Après plusieurs années d'expérience dans le domaine de l'électricité, la maintenance & l'IoT (internet des objets) où j'ai acquis de nombreuses connaissances et compétences produit/métier & terrain, je me suis inscrit en 2022 au bootcamp du Wagon pour continuer à apprendre et découvrir le code. 
+En complément, j'ai ensuite réalisé une initiation au développement mobile iOS dans le cadre de l'Apple Foundation Program.
 
 Je suis également "webmaster" depuis les années 90 (de multimania, à dotclear pour être actuellement sur Wordpress).
 Je blogue parfois sur la technologie d'un point de vue pragmatique.
