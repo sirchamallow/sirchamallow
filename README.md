@@ -2,7 +2,7 @@
 
 **👋 Présentation**
 
-Je suis un développeur web passionné de veille et de technologie.
+Je suis un développeur web (🇫🇷 🇪🇺) passionné de veille et de technologie.
 
 Après plusieurs années d'expérience dans le domaine de l'électricité, la maintenance & l'IoT (internet des objets), je me suis inscrit en 2022 au bootcamp du Wagon pour apprendre le Développement Web. 
 En complément, j'ai ensuite réalisé une initiation au Développement Mobile iOS dans le cadre de l'Apple Foundation Program.
@@ -19,13 +19,6 @@ Ravi de vous rencontrer!
 - 🔗 Découvrez [mon blog](https://sir.chamallow.com)
 - 📨 Newsletter : Abonnez-vous à mes [carnets de veille](https://sirchamallow.substack.com/)!
 - 📔 Wiki : Découvrez mon [wiki](https://sirchamallow.gitbook.io/wiki)!
-- 📢 Retrouvez-moi AFK sur Lyon (🇫🇷 🇪🇺)
-
-**🤠 Retrouvez-moi sur 👇**
-
-<a href="https://www.linkedin.com/in/pierrelemasson" target="blank"><img src="https://img.shields.io/badge/-Pierre LEMASSON-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrelemasson/" alt="Pierre LEMASSON - Linkedin" /></a> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?style=social" alt="sirchamallow - Twitter" /></a> <a href="https://github.com/sirchamallow" target="blank"><img src="https://img.shields.io/github/followers/sirchamallow?label=Github&style=social" alt="sirchamallow - GitHub" /></a>
-</br>
-[Google Developers](g.dev/pierrelemasson), [Apple Developers Forums](https://developer.apple.com/forums/profile/sirchamallow), [StackOverflow](https://stackoverflow.com/users/3868221/sirchamallow)
 
 **⚡ Technologies & skills**
 
