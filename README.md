@@ -1,8 +1,8 @@
-### Bonjour, je suis Pierre LEMASSON a.k.a @sirchamallow
+### Bonjour, je suis Pierre LEMASSON a.k.a @sirchamallow (🇫🇷 🇪🇺) 
 
 **👋 Présentation**
 
-Je suis un développeur web (🇫🇷 🇪🇺) passionné de veille et de technologie.
+Je suis un passionné de veille et de technologie.
 
 Après plusieurs années d'expérience dans le domaine de l'électricité, la maintenance & l'IoT (internet des objets), je me suis inscrit en 2022 au bootcamp du Wagon pour apprendre le Développement Web. 
 En complément, j'ai ensuite réalisé une initiation au Développement Mobile iOS dans le cadre de l'Apple Foundation Program.
