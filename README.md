@@ -12,7 +12,7 @@ Ravi de vous rencontrer!
 
 **👉 En résumé**
 
-- 🔭 Je suis un développeur web (front-end) & mobile iOS
+- 🔭 Je suis un Technicien Support & développeur web
 - 📫 Vous souhaitez me contacter ? Mon email : [*sir.chamallow@protonmail.com*](mailto:sir.chamallow@protonmail.com)
 - 💼 Plus d'informations sur [mon parcours professionnel](https://github.com/sirchamallow/profilecv)
 - 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/pierrelemasson)
