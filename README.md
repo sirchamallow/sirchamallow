@@ -4,10 +4,10 @@
 
 Je suis un passionné de veille et de technologie.
 
-Fort de plus de 20 années d'expérience professionnelle dans les domaines technique et informatique, j'ai développé une expertise aussi bien en B2B qu'en B2C. 
-Mon profil hybride, alliant compétences techniques, informatique et vision stratégique, reflète la convergence actuelle de ces domaines.
+Fort de plus de 20 années d'expérience professionnelle dans les domaines industrie, tertiare, technique et informatique,
+Mon profil hybride, allie compétences techniques, informatique et vision stratégique, reflète la convergence actuelle de ces domaines.
 
-Je blogue parfois sur la technologie d'un point de vue pragmatique.
+Je redige parfois des articles sur la technologie d'un point de vue pragmatique.
 Ravi de vous rencontrer!
 
 **👉 En résumé**
